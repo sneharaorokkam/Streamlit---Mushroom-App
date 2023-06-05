@@ -20,3 +20,7 @@ Explore the [Web App](https://sneharaorokkam-streamlit---mushroom-app-app-7oextx
 Upon opening the link, you'll be greeted by a user-friendly interface that lets you interact with various machine learning models. The app enables you to explore the data used, select a classification algorithm of your choice, and dynamically adjust hyperparameters. These features allow you to observe in real-time how different configurations impact the model's performance.
 
 Built with Streamlit, the application provides a highly interactive platform that bridges the gap between machine learning and web development. It's designed to be self-explanatory, but don't hesitate to reach out with any questions or feedback.
+
+
+References:
+https://github.com/snehankekre

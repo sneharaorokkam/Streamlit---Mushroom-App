@@ -15,7 +15,7 @@ The application built in this project provides visualizations of evaluation metr
 * To create visual plots of evaluation metrics for binary classification algorithms.
 
 ## Viewing the Application
-Explore the Web App.
+Explore the [Web App]([url](https://sneharaorokkam-streamlit---mushroom-app-app-7oextx.streamlit.app/)).
 
 Upon opening the link, you'll be greeted by a user-friendly interface that lets you interact with various machine learning models. The app enables you to explore the data used, select a classification algorithm of your choice, and dynamically adjust hyperparameters. These features allow you to observe in real-time how different configurations impact the model's performance.
 

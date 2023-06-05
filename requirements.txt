@@ -1,0 +1,9 @@
+
+altair==4.2.2
+matplotlib @ file:///opt/concourse/worker/volumes/live/f670ab63-e220-495e-450b-14c9591f195b/volume/matplotlib-suite_1634667037960/work
+matplotlib-inline==0.1.6
+numpy @ file:///opt/concourse/worker/volumes/live/9909a8d0-9b8e-44eb-6059-6c668078c029/volume/numpy_and_numpy_base_1626271794641/work
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
+pandas==1.3.4
+streamlit==1.12.0
+
